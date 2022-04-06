@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"server","dependencies":{"dotenv":{"version":"16.0.0"},"express":{"version":"4.17.3"},"socket.io":{"version":"4.4.1"},"ws":{"version":"8.5.0"}}}
